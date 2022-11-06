@@ -1,1 +1,17 @@
 
+h4{
+    margin-bottom: 30px;
+}
+a{
+    color: black;
+}
+.top{
+    text-decoration: none;
+    color: blue;
+}
+
+#chicken,#beef,#sushi {padding-right: 5px;
+    background-color: rgb(246, 246, 246);}
+p{padding-left:20px ;
+padding-right: 20px;}
+
